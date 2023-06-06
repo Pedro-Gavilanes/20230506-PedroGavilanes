@@ -1,0 +1,3 @@
+1.Disco SSD
+2.Memoria RAM
+3.Memoria ROM

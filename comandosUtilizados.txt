@@ -1,0 +1,335 @@
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes
+$ git init
+Initialized empty Git repository in D:/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes/.git/
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git add .
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git config user.name Pedro-Gavilanes
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git config user.email pedrogavilanes1@gmail.com
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git commit -m "commit 01 de PedroGavilanes"
+On branch main
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git remote add origin "https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes.git"
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git push origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes.git'
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git remote add origin "https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes.git"
+error: remote origin already exists.
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git push origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes.git'
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git push origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes.git'
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git remote add origin https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes.git
+error: remote origin already exists.
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git remote add origin "https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes.git"
+error: remote origin already exists.
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ touch comandos.txt main.js index.html
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git commit "commit 01 de PedroGavilanes"
+error: pathspec 'commit 01 de PedroGavilanes' did not match 
+any file(s) known to git
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git add .
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git commit "commit 01 de PedroGavilanes"
+error: pathspec 'commit 01 de PedroGavilanes' did not match 
+any file(s) known to git
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$
+ *  Historial restaurado 
+
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes
+$ git init
+Initialized empty Git repository in D:/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes/.git/
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git add .
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git push origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'origin'
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git remote add origin https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes.git
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git branch -M main
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOL
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git init
+Reinitialized existing Git repository in D:/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes/.git/
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git add .
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git config user.name "Pedro-Gavilanes"
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git config user.email "pedrogavilanes1@gmail.com"    
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git commit -m "Primer commmit"
+[main (root-commit) 9fbdce5] Primer commmit
+ 3 files changed, 0 insertions(+), 0 deletions(-)      
+ create mode 100644 comandos.txt
+ create mode 100644 index.html
+ create mode 100644 main.js
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git remote add origin https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes.git
+error: remote origin already exists.
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git push origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 247 bytes | 30.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes.git
+ * [new branch]      main -> main
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git add .
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git commit "commit 01 de juanPerez"
+error: pathspec 'commit 01 de juanPerez' did not match 
+any file(s) known to git
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git commit "commit 01 de pedrogavilanes"
+error: pathspec 'commit 01 de pedrogavilanes' did not match any file(s) known to git
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git commit -m "commit 01 de pedrogavilanes"
+On branch main
+nothing to commit, working tree clean
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git commit "commit 01 de pedrogavilanes"
+error: pathspec 'commit 01 de pedrogavilanes' did not match 
+any file(s) known to git
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git branch feature01
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ mkdir Terminal Hardware
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ 
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ ls
+comandos.txt  Hardware/  index.html  main.js  Terminal/
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git checkput feature01
+git: 'checkput' is not a git command. See 'git --help'.
+
+The most similar command is
+        checkout
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git checkout feature01
+Switched to branch 'feature01'
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (feature01)
+$ mkdir Terminal Hardware
+mkdir: cannot create directory ‘Terminal’: File exists
+mkdir: cannot create directory ‘Hardware’: File exists      
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (feature01)
+$ touch Terminal/resumen.txt Hardware/resumen.txt
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (feature01)
+$ git add .
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (feature01)
+$ git commit -m "commit 02 de pedrogavilanes"
+[feature01 b7af588] commit 02 de pedrogavilanes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Hardware/resumen.txt
+ create mode 100644 Terminal/resumen.txt
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (feature01)
+$ git push origin feature01
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 365 bytes | 121.00 KiB/s, done.Total 3 (delta 0), reused 0 (delta 0), pack-reused 0        
+remote: 
+remote: Create a pull request for 'feature01' on GitHub by visiting:
+remote:      https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes/pull/new/feature01
+remote:
+To https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes.git
+ * [new branch]      feature01 -> feature01
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (feature01)
+$ git branch feature02
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (feature01)
+$ git checkout feature02
+Switched to branch 'feature02'
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (feature02)
+$ resumen.txt
+bash: resumen.txt: command not found
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (feature02)
+$ git add .
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (feature02)
+$ git commit -m "commit 03 de pedrogavilanes"
+[feature02 eb4aea3] commit 03 de pedrogavilanes
+ 2 files changed, 8 insertions(+)
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (feature02)
+$ git push origin feature02
+Enumerating objects: 11, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (6/6), 514 bytes | 57.00 KiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0), pack-reused 0        
+remote: 
+remote: Create a pull request for 'feature02' on GitHub by visiting:
+remote:      https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes/pull/new/feature02
+remote:
+To https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes.git
+ * [new branch]      feature02 -> feature02
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (feature02)
+$ git checkout main
+Switched to branch 'main'
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ mv comandos.txt comandosUtiliados.txt
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git add comandoUtilizados.txt
+fatal: pathspec 'comandoUtilizados.txt' did not match any files
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git add comandosUtilizados.txt
+fatal: pathspec 'comandosUtilizados.txt' did not match any files
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git add .
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ git commit -m "commit 04 de pedrogavilanes"
+[main f1491fc] commit 04 de pedrogavilanes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename comandos.txt => comandosUtiliados.txt (100%)        
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)30506PedroGavilanes (main)
+$ git push origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.                      Total 2 (delta 0), reused 0 (delta 0), pack-reused 0
+Writing objects: 100% (2/2), 274 bytes | 137.00 KiB/s, done.s.gitTotal 2 (delta 0), reused 0 (delta 0), pack-reused 0        
+To https://github.com/Pedro-Gavilanes/20230506-PedroGavilanes.git                                                       30506PedroGavilanes (main)
+   9fbdce5..f1491fc  main -> main
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ En la rama main, renombra el archivo comandos.txt como
+bash: En: command not found
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ comandosUtilizados.txt agregando los comandos que realizaste en
+bash: comandosUtilizados.txt: command not found
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ este examen, haz el commit y sube los cambios al repositorio
+bash: este: command not found
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ remoto, puedes utilizar el comando history para esto. Luego sigue
+bash: remoto,: command not found
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ los pasos necesarios para subir estos cambios al repositorio
+bash: los: command not found
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ remoto.
+bash: remoto.: command not found
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ En la rama main, renombra el archivo comandos.txt como
+bash: En: command not found
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ comandosUtilizados.txt agregando los comandos que realizaste en
+bash: comandosUtilizados.txt: command not found
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ este examen, haz el commit y sube los cambios al repositorio
+bash: este: command not found
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ remoto, puedes utilizar el comando history para esto. Luego sigue
+bash: remoto,: command not found
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ los pasos necesarios para subir estos cambios al repositorio
+bash: los: command not found
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ remoto.
+bash: remoto.: command not found
+
+Pedro@DESKTOP-AS72H7L MINGW64 /d/DIGITALHOUSE/Front-SOLO/20230506PedroGavilanes (main)
+$ 
+
+
+
+
+
